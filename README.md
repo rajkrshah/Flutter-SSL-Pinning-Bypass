@@ -141,7 +141,7 @@ This repository is intended for educational and ethical research purposes only. 
 ## References
 
 - [Frida SSL Pinning Bypass](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06a-Testing-Data-Transport-Security.md#testing-custom-certificate-stores-and-certificate-pinning)
-- [Flutter SSL Pinning Bypass Techniques](https://www.youtube.com/watch?v=lgdCM7yPZzI, https://medium.com/@username/flutter-ssl-pinning-bypass-2022-edition-xyz)
+- [Flutter SSL Pinning Bypass Techniques](https://www.youtube.com/watch?v=lgdCM7yPZzI)
 - [Objection Framework](https://github.com/sensepost/objection)
 
 ## License
